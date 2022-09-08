@@ -1,1 +1,1 @@
-# mindorks-android-course-notes-app
+notes-app
